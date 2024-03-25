@@ -1,0 +1,19 @@
+{
+    "noticias": [
+      {
+        "titulo": "Umbrella Corporation anuncia avance en investigación de virus.",
+        "descripcion": "La compañía biotecnológica Umbrella Corporation ha anunciado un importante avance en la investigación de un nuevo virus.",
+        "fecha": "2024-03-04"
+      },
+      {
+        "titulo": "Nuevos productos de Umbrella Corporation en desarrollo.",
+        "descripcion": "Umbrella Corporation revela que está trabajando en varios nuevos productos biotecnológicos que revolucionarán la industria.",
+        "fecha": "2024-02-23"
+      },
+      {
+        "titulo": "Umbrella Corporation adquiere compañía farmacéutica rival.",
+        "descripcion": "Umbrella Corporation ha completado la adquisición de una importante compañía farmacéutica, consolidando su posición en el mercado.",
+        "fecha": "2023-12-02"
+      }
+    ]
+  }
